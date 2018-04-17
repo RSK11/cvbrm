@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="CVBRMTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorButtonNormal">#d7d7d7</item>
+        <item name="android:windowBackground">@color/colorBack</item>
+        <item name="android:textColor">@color/colorButtonText</item>
+        <item name="buttonStyle">@style/CVBRMButton</item>
+        <item name="actionBarTheme">@style/CVBRMBar</item>
+        <item name="editTextStyle">@style/CVBRMEdit</item>
+        <item name="alertDialogTheme">@style/CVBRMDialog</item>
+    </style>
+    <style name="CVBRMButton" parent="Base.Widget.AppCompat.Button">
+        <item name="android:textColor">@color/colorButtonText</item>
+    </style>
+    <style name="CVBRMBar" parent="Base.Widget.AppCompat.ActionBar">
+        <item name="android:textColor">@color/colorBack</item>
+    </style>
+    <style name="CVBRMEdit" parent="Base.Widget.AppCompat.EditText">
+        <item name="android:textColor">@color/colorButtonText</item>
+    </style>
+    <style name="CVBRMDialog" parent="Base.AlertDialog.AppCompat.Light">
+        <item name="android:textColor">@color/colorButtonText</item>
+    </style>
+
+
+</resources>

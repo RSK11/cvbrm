@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:id="@+id/toolbar_menu">
+<item
+    android:id="@+id/import_button"
+    android:title="Import Image"
+    android:icon="@drawable/ic_folder_image_white_24dp"
+    app:showAsAction="always"/>
+</menu>

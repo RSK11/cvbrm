@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CVBRM</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="stop_animation">Stop Animation</string>
+    <string name="animate">Animate</string>
+    <string name="left_arrow">Left Arrow</string>
+    <string name="up_arrow">Up Arrow</string>
+    <string name="down_arrow">Down Arrow</string>
+    <string name="right_arrow">Right Arrow</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom Out</string>
+    <string name="tilt_more">Tilt More</string>
+    <string name="tilt_less">Tilt Less</string>
+    <string name="map_not_ready">Map Not Ready</string>
+    <string name="duration">Duration</string>
+    <string name="lower_threshold">Threshold:</string>
+    <string name="aperture">Aperture:</string>
+    <string name="blur">Blur:</string>
+    <string name="next">Next</string>
+    <string name="distance">Distance</string>
+    <string name="mi">mi.</string>
+    <string name="opn">1.0</string>
+    <string name="recent_routes">Recent Routes</string>
+    <string name="new_route">New Route</string>
+    <string name="draw_route">Draw Route</string>
+</resources>
